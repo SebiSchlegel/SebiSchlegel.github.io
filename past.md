@@ -1,11 +1,22 @@
 ---
-title: Travel
+title: Past
 layout: default
 ---
 
-### future travel
-September 2023, Lausanne, Conference "Categorified Enumerative Geometry and Representation Theory"
 
+###    past organization
+ 
+    
+Together with Ben Davison and Lucien Hennecart, I organised the
+[EGRET seminar](https://www.maths.ed.ac.uk/~lhenneca/EGRET.html)
+from October 2021 to December 2022.
+    
+ 
+Together with Ben Brown, 
+I organised 
+[Hodge Club](https://hodge.maths.ed.ac.uk/tiki/Hodge+Club)
+for the academic year 2020-2021.
+ 
 ### past travel
 April 2023, Skye, "Skye 2023: Workshop on Hall algebras and vertex algebras in enumerative geometry"
 
@@ -38,3 +49,4 @@ October 2021, Oberwolfach, Oberwolfach Seminar: "New Techniques in Resolutions o
 July 2021, Paris, IHÉS Summer school: "Enumerative Geometry, Physics and Representation Theory"
  
 February 2020, Bonn, Hausdorff School: “Perverse Sheaves in Enumerative Geometry”
+    

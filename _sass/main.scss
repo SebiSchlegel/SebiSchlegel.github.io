@@ -1,3 +1,28 @@
+
 .current{
-color: green;
-}
+    color: rgb(102, 166, 184);
+    }
+
+body {
+    background-color: rgb(234, 245, 249);
+  }
+
+  /* unvisited link */
+a:link {
+    color: rgb(128, 0, 126);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(112, 106, 112);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(228, 100, 164);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(84, 255, 255);
+  }

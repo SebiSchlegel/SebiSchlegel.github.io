@@ -43,12 +43,15 @@ p {
 </head>
 
 <body>
-<header>
-{{page.title|downcase}}
-</header>
-<br>
-{% include navigation.html %}
-{{ content }}
+  
+  <br>
+  <header>
+    {{page.title|downcase}}
+  </header>
 
+  {{ content }}
+  <br>
+  <br>
+  {% include navigation.html %}
 </body>
 </html> 
