@@ -50,3 +50,27 @@ July 2021, Paris, IHÉS Summer school: "Enumerative Geometry, Physics and Repres
  
 February 2020, Bonn, Hausdorff School: “Perverse Sheaves in Enumerative Geometry”
     
+
+### past teaching
+
+#### as a tutor at the University of Edinburgh
+
+2023 Spring, Honours Complex Variables - Skills
+
+2023 Spring, Honours Algebra
+
+2022 Autumn, General Topology
+
+2022 Autumn, Geometry
+
+2021 Autumn, Geometry
+
+2021 Spring, Calculus and Applications
+
+2020 Spring, Calculus and Applications
+
+#### as a teaching assistant at ETH Zürich
+
+2018 Herbst, Lineare Algebra I
+
+2017 Herbst, Lineare Algebra I

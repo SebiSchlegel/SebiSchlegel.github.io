@@ -2,13 +2,9 @@
   color: rgb(102, 166, 184);
 }
 
-body {
-  background-color: rgb(234, 245, 249);
-}
-
 /* unvisited link */
 a:link {
-  color: rgb(128, 0, 126);
+  color: rgb(83, 137, 86);
 }
 
 /* visited link */
@@ -24,6 +20,20 @@ a:hover {
 /* selected link */
 a:active {
   color: rgb(84, 255, 255);
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+body {
+  width: calc(100% - 40px);
+  max-width: 900px;
+  margin: auto;
+  color: #2a3d84;
+  background-color: rgb(252, 250, 237);
 }
 
 /*# sourceMappingURL=styles.css.map */
