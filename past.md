@@ -19,6 +19,10 @@ for the academic year 2020-2021.
 
 ### past travel
 
+November 27, talk at University of Zurich
+
+November 13-17, visiting University of Luxembourg, talk on November 15
+
 September 2023, Lausanne, Conference "Categorified Enumerative Geometry and Representation Theory"
 
 April 2023, Skye, "Skye 2023: Workshop on Hall algebras and vertex algebras in enumerative geometry"
