@@ -1,39 +1,19 @@
-.current {
-  color: rgb(102, 166, 184);
-}
+.current { color: #66a6b8; }
 
 /* unvisited link */
-a:link {
-  color: rgb(83, 137, 86);
-}
+a:link { color: #538956; }
 
 /* visited link */
-a:visited {
-  color: rgb(112, 106, 112);
-}
+a:visited { color: #706a70; }
 
 /* mouse over link */
-a:hover {
-  color: rgb(228, 100, 164);
-}
+a:hover { color: #e464a4; }
 
 /* selected link */
-a:active {
-  color: rgb(84, 255, 255);
-}
+a:active { color: #54ffff; }
 
-header {
-  display: flex;
-  justify-content: center;
-  margin-top: 2em;
-}
+header { display: flex; justify-content: center; margin-top: 2em; }
 
-body {
-  width: calc(100% - 40px);
-  max-width: 900px;
-  margin: auto;
-  color: #2a3d84;
-  background-color: rgb(252, 250, 237);
-}
+body { width: calc(100% - 2*20px); max-width: 900px; margin: auto; color: #2a3d84; background-color: #fcfaed; }
 
 /*# sourceMappingURL=styles.css.map */

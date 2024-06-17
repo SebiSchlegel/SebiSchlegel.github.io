@@ -1,1 +1,14 @@
-{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AACA;EACI;;;AAGF;AACF;EACI;;;AAGF;AACA;EACE;;;AAGF;AACA;EACE;;;AAGF;AACA;EACE;;;AAGF;EACE;EACA;EACA;;;AAGF;EACE;EACA;EACA;EACA;EACA","sourcesContent":["\r\n.current{\r\n    color: rgb(102, 166, 184);\r\n    }\r\n\r\n  /* unvisited link */\r\na:link {\r\n    color: rgb(83, 137, 86);\r\n  }\r\n  \r\n  /* visited link */\r\n  a:visited {\r\n    color: rgb(112, 106, 112);\r\n  }\r\n  \r\n  /* mouse over link */\r\n  a:hover {\r\n    color: rgb(228, 100, 164);\r\n  }\r\n  \r\n  /* selected link */\r\n  a:active {\r\n    color: rgb(84, 255, 255);\r\n  }\r\n\r\n  header {\r\n    display: flex;\r\n    justify-content: center;\r\n    margin-top: 2em;\r\n  }\r\n\r\n  body {\r\n    width: calc(100% - 2*20px);\r\n    max-width: 900px;\r\n    margin: auto;\r\n    color: #2a3d84;\r\n    background-color: rgb(252, 250, 237);\r\n  }\r\n\r\n"],"file":"styles.css"}
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"\r\n.current{\r\n    color: rgb(102, 166, 184);\r\n    }\r\n\r\n  /* unvisited link */\r\na:link {\r\n    color: rgb(83, 137, 86);\r\n  }\r\n  \r\n  /* visited link */\r\n  a:visited {\r\n    color: rgb(112, 106, 112);\r\n  }\r\n  \r\n  /* mouse over link */\r\n  a:hover {\r\n    color: rgb(228, 100, 164);\r\n  }\r\n  \r\n  /* selected link */\r\n  a:active {\r\n    color: rgb(84, 255, 255);\r\n  }\r\n\r\n  header {\r\n    display: flex;\r\n    justify-content: center;\r\n    margin-top: 2em;\r\n  }\r\n\r\n  body {\r\n    width: calc(100% - 2*20px);\r\n    max-width: 900px;\r\n    margin: auto;\r\n    color: #2a3d84;\r\n    background-color: rgb(252, 250, 237);\r\n  }\r\n\r\n"
+	],
+	"names": [],
+	"mappings": "ACCA,AAAA,QAAQ,CAAA,EACJ,KAAK,EAAE,OAAkB,GACxB;;AAEH,oBAAoB;AACtB,AAAA,CAAC,CAAC,IAAI,CAAC,EACH,KAAK,EAAE,OAAgB,GACxB;;AAED,kBAAkB;AAClB,AAAA,CAAC,CAAC,OAAO,CAAC,EACR,KAAK,EAAE,OAAkB,GAC1B;;AAED,qBAAqB;AACrB,AAAA,CAAC,CAAC,KAAK,CAAC,EACN,KAAK,EAAE,OAAkB,GAC1B;;AAED,mBAAmB;AACnB,AAAA,CAAC,CAAC,MAAM,CAAC,EACP,KAAK,EAAE,OAAiB,GACzB;;AAED,AAAA,MAAM,CAAC,EACL,OAAO,EAAE,IAAI,EACb,eAAe,EAAE,MAAM,EACvB,UAAU,EAAE,GAAG,GAChB;;AAED,AAAA,IAAI,CAAC,EACH,KAAK,EAAE,mBAAmB,EAC1B,SAAS,EAAE,KAAK,EAChB,MAAM,EAAE,IAAI,EACZ,KAAK,EAAE,OAAO,EACd,gBAAgB,EAAE,OAAkB,GACrC"
+}
