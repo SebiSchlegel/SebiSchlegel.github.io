@@ -19,6 +19,8 @@ for the academic year 2020-2021.
 
 ### past travel
 
+May 2024, Kyoto University, RIMS
+
 November 27, talk at University of Zurich
 
 November 13-17, visiting University of Luxembourg, talk on November 15
