@@ -4,26 +4,30 @@ layout: default
 ---
 
 
+I was a postdoctoral fellow at the Max Planck Institute for Mathematics in Bonn.
+
 I was a PhD student under the supervision of [Ben Davison](https://sites.google.com/site/bendavisonmath/) at the University of Edinburgh.
 
 ### past organization
 
 Together with Ben Davison and Lucien Hennecart, I organised the
-[EGRET seminar](https://www.maths.ed.ac.uk/~lhenneca/EGRET.html)
+[EGRET seminar](https://web.archive.org/web/20240705202924/https://www.maths.ed.ac.uk/~lhenneca/EGRET.html)
 from October 2021 to December 2022.
 
 Together with Ben Brown,
 I organised
-[Hodge Club](https://hodge.maths.ed.ac.uk/tiki/Hodge+Club)
+[Hodge Club](https://web.archive.org/web/20210618214934/https://hodge.maths.ed.ac.uk/tiki/Hodge+Club)
 for the academic year 2020-2021.
 
-### past travel
+<!-- ### past travel
+
+September 2024, Paris, Workshop "DT theory and derived categories"
 
 May 2024, Kyoto University, RIMS
 
-November 27, talk at University of Zurich
+November 2023, talk at University of Zurich
 
-November 13-17, visiting University of Luxembourg, talk on November 15
+November 2023, visiting University of Luxembourg, talk on November 15
 
 September 2023, Lausanne, Conference "Categorified Enumerative Geometry and Representation Theory"
 
@@ -57,9 +61,12 @@ October 2021, Oberwolfach, Oberwolfach Seminar: "New Techniques in Resolutions o
 
 July 2021, Paris, IHÉS Summer school: "Enumerative Geometry, Physics and Representation Theory"
 
-February 2020, Bonn, Hausdorff School: “Perverse Sheaves in Enumerative Geometry”
+February 2020, Bonn, Hausdorff School: “Perverse Sheaves in Enumerative Geometry” -->
 
 ### past teaching
+
+#### as lecturer for [Physics LATAM](https://www.physicslatam.com/)
+2024 Spring, [Infinite Dimensional Lie Algebras](https://www.physicslatam.com/lie) (in Spanish)
 
 #### as a tutor at the University of Edinburgh
 
