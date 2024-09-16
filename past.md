@@ -6,7 +6,7 @@ layout: default
 
 I was a postdoctoral fellow at the Max Planck Institute for Mathematics in Bonn.
 
-I was a PhD student under the supervision of [Ben Davison](https://sites.google.com/site/bendavisonmath/) at the University of Edinburgh.
+I was a PhD student under the supervision of [Ben Davison](https://sites.google.com/site/bendavisonmath/) at the University of Edinburgh. My thesis is [here](https://era.ed.ac.uk/handle/1842/41071).
 
 ### past organization
 
@@ -21,7 +21,7 @@ for the academic year 2020-2021.
 
 <!-- ### past travel
 
-September 2024, Paris, Workshop "DT theory and derived categories"
+September 2024, Paris, talk at Workshop "DT theory and derived categories"
 
 May 2024, Kyoto University, RIMS
 
