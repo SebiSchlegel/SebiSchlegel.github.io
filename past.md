@@ -1,5 +1,5 @@
 ---
-title: Past
+title: past
 layout: default
 ---
 
@@ -64,6 +64,10 @@ July 2021, Paris, IHÉS Summer school: "Enumerative Geometry, Physics and Repres
 February 2020, Bonn, Hausdorff School: “Perverse Sheaves in Enumerative Geometry” -->
 
 ### past teaching
+
+
+#### as lecturer at EPFL
+2025 Spring,[ Algebraic Geometry III - selected topics](https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3500816089&ww_x_anneeacad=2305107546&ww_i_section=944590&ww_i_niveau=6683147&ww_c_langue=fr)
 
 #### as lecturer for [Physics LATAM](https://www.physicslatam.com/)
 2024 Spring, [Infinite Dimensional Lie Algebras](https://www.physicslatam.com/lie) (in Spanish)
