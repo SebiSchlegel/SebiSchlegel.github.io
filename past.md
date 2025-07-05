@@ -10,6 +10,8 @@ I was a PhD student under the supervision of [Ben Davison](https://sites.google.
 
 ### past organization
 
+Together with Sergej Monavari and Kamil Rychlewicz, I organised a reading group on the [cohomology of algebraic stacks](https://sites.google.com/view/sergej-monavari-math/cohomology-of-algebraic-stacks).
+
 Together with Ben Davison and Lucien Hennecart, I organised the
 [EGRET seminar](https://web.archive.org/web/20240705202924/https://www.maths.ed.ac.uk/~lhenneca/EGRET.html)
 from October 2021 to December 2022.
