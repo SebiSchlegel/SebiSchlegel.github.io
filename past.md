@@ -10,6 +10,8 @@ I was a PhD student under the supervision of [Ben Davison](https://sites.google.
 
 ### past organization
 
+Together with Elsa Maneval, I organised a reading group on the paper [Cohomology of Symmetric Stacks](https://arxiv.org/abs/2502.04253) by Bu--Davison--Ibáñez Núñez--Kinjo--Pădurariu. The reading group was run as a [course](https://edu.epfl.ch/coursebook/en/cohomology-of-symmetric-stacks-MATH-675) for doctoral students in mathematics.
+
 Together with Sergej Monavari and Kamil Rychlewicz, I organised a reading group on the [cohomology of algebraic stacks](https://sites.google.com/view/sergej-monavari-math/cohomology-of-algebraic-stacks).
 
 Together with Ben Davison and Lucien Hennecart, I organised the
@@ -73,6 +75,9 @@ February 2020, Bonn, Hausdorff School: “Perverse Sheaves in Enumerative Geomet
 
 #### as lecturer for [Physics LATAM](https://www.physicslatam.com/)
 2024 Primavera, [Infinite Dimensional Lie Algebras](https://www.physicslatam.com/lie) (in Spanish)
+
+### as a teaching assistant at EPFL
+2025 Fall, Algèbre I: structures fundamentales
 
 #### as a tutor at the University of Edinburgh
 
