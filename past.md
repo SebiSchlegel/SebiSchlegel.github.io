@@ -77,7 +77,7 @@ February 2020, Bonn, Hausdorff School: “Perverse Sheaves in Enumerative Geomet
 2024 Primavera, [Infinite Dimensional Lie Algebras](https://www.physicslatam.com/lie) (in Spanish)
 
 ### as a teaching assistant at EPFL
-2025 Fall, Algèbre I: structures fondamentales
+2025 Automne, Algèbre I: structures fondamentales
 
 #### as a tutor at the University of Edinburgh
 
