@@ -10,11 +10,11 @@ I was a PhD student under the supervision of [Ben Davison](https://sites.google.
 
 ### past organization
 
-Together with Elsa Maneval, I organised a reading group on the paper [Cohomology of Symmetric Stacks](https://arxiv.org/abs/2502.04253) by Bu--Davison--Ibáñez Núñez--Kinjo--Pădurariu. The reading group was run as a [course](https://edu.epfl.ch/coursebook/en/cohomology-of-symmetric-stacks-MATH-675) for doctoral students in mathematics.
+Together with [Elsa Maneval](http://elsamaneval.github.io/), I organised a reading group on the paper [Cohomology of Symmetric Stacks](https://arxiv.org/abs/2502.04253) by Bu--Davison--Ibáñez Núñez--Kinjo--Pădurariu. The reading group was run as a [course](https://edu.epfl.ch/coursebook/en/cohomology-of-symmetric-stacks-MATH-675) for doctoral students in mathematics.
 
-Together with Sergej Monavari and Kamil Rychlewicz, I organised a reading group on the [cohomology of algebraic stacks](https://sites.google.com/view/sergej-monavari-math/cohomology-of-algebraic-stacks).
+Together with [Sergej Monavari](https://sites.google.com/view/sergej-monavari-math/home-page) and [Kamil Rychlewicz](https://kamilrychlewicz.github.io/), I organised a reading group on the [cohomology of algebraic stacks](https://sites.google.com/view/sergej-monavari-math/cohomology-of-algebraic-stacks).
 
-Together with Ben Davison and Lucien Hennecart, I organised the
+Together with Ben Davison and [Lucien Hennecart](https://hennlu.github.io/), I organised the
 [EGRET seminar](https://web.archive.org/web/20240705202924/https://www.maths.ed.ac.uk/~lhenneca/EGRET.html)
 from October 2021 to December 2022.
 
@@ -77,7 +77,7 @@ February 2020, Bonn, Hausdorff School: “Perverse Sheaves in Enumerative Geomet
 2024 Primavera, [Infinite Dimensional Lie Algebras](https://www.physicslatam.com/lie) (in Spanish)
 
 ### as a teaching assistant at EPFL
-2025 Fall, Algèbre I: structures fundamentales
+2025 Fall, Algèbre I: structures fondamentales
 
 #### as a tutor at the University of Edinburgh
 
